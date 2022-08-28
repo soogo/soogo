@@ -1,47 +1,57 @@
-### Hi there 👋
+<img src="https://cdn-icons-png.flaticon.com/512/5111/5111586.png" width="50">
 
+---
 
+### 안녕하세요! 👋
+
+Welcome to my page!
+
+I am Soogo, Fullstack Developer from South Korea.
+
+제 이메일 주소는? : soolpam@gmail.com
+
+### Languages & Tools :
 <p>
-  <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
-  <img alt="Webpack" src="https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=white" /> 
-  <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
-  <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
-  <img alt="Google Cloud Platform" src="https://img.shields.io/badge/-Google_Cloud_Platform-1a73e8?style=flat-square&logo=google-cloud&logoColor=white" />
-  <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
-  <img alt="Insomnia" src="https://img.shields.io/badge/-Insomnia-5849BE?style=flat-square&logo=insomnia&logoColor=white" />
-  <img alt="Apollo" src="https://img.shields.io/badge/-Apollo%20GraphQL-311C87?style=flat-square&logo=apollo-graphql&logoColor=white" />
-  <img alt="Heroku" src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white" />
-  <img alt="redux" src="https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white" />
-  <img alt="ReactiveX" src="https://img.shields.io/badge/-RxJs-B7178C?style=flat-square&logo=reactivex&logoColor=white" />
-  <img alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white" />
-  <img alt="Sass" src="https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white" />
-  <img alt="Styled Components" src="https://img.shields.io/badge/-Styled_Components-db7092?style=flat-square&logo=styled-components&logoColor=white" />
-  <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
-  <img alt="NestJs" src="https://img.shields.io/badge/-NestJs-ea2845?style=flat-square&logo=nestjs&logoColor=white" />
-  <img alt="angular" src="https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white" />
-  <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
-  <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-  <img alt="Brave browser" src="https://img.shields.io/badge/-Brave_Browser-FB542B?style=flat-square&logo=brave&logoColor=white" />
-  <img alt="Rollup" src="https://img.shields.io/badge/-Rollup-EC4A3F?style=flat-square&logo=rollup.js&logoColor=white" />
-  <img alt="d3js" src="https://img.shields.io/badge/-D3.js-F9A03C?style=flat-square&logo=d3.js&logoColor=white" />
-  <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white" />
-  <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
-  <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
+  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-f7df1e?style=for-the-badge&logo=JavaScript&logoColor=black" />
+  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178c6?style=for-the-badge&logo=TypeScript&logoColor=white" />
+  <img alt="Node" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white" />
+  <img alt="NestJs" src="https://img.shields.io/badge/NestJs-e0234e?style=for-the-badge&logo=NestJs&logoColor=white" />
+  <img alt="PHP" src="https://img.shields.io/badge/PHP-777bb4?style=for-the-badge&logo=PHP&logoColor=white" />
+  <img alt="Git" src="https://img.shields.io/badge/Git-f05032?style=for-the-badge&logo=Git&logoColor=white" />
+  <img alt="Linux" src="https://img.shields.io/badge/Linux-fcc624?style=for-the-badge&logo=Linux&logoColor=black" />
+  <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952b3?style=for-the-badge&logo=Bootstrap&logoColor=white" />
+  <img alt="Tailwind" src="https://img.shields.io/badge/Tailwind%20CSS-7952b3?style=for-the-badge&logo=Tailwind%20CSS&logoColor=white" />
+  <img alt="Svelte" src="https://img.shields.io/badge/Svelte-ff3e00?style=for-the-badge&logo=Svelte&logoColor=white" />
+  <img alt="HTML5" src="https://img.shields.io/badge/HTML5-e34f26?style=for-the-badge&logo=HTML5&logoColor=white" />
+  <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white" />
+  <img alt="MariaDB" src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=MariaDB&logoColor=white" />
+  <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479a1?style=for-the-badge&logo=MySQL&logoColor=white" />
+  <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ed?style=for-the-badge&logo=Docker&logoColor=white" />
+  <img alt="express" src="https://img.shields.io/badge/express-000000?style=for-the-badge&logo=Express&logoColor=white" />
+  <img alt="Apache" src="https://img.shields.io/badge/Apache-d22128?style=for-the-badge&logo=Apache&logoColor=white" />
+  <img alt="NGINX" src="https://img.shields.io/badge/NGINX-009639?style=for-the-badge&logo=NGINX&logoColor=white" />
+  <img alt="npm" src="https://img.shields.io/badge/npm-cb3837?style=for-the-badge&logo=npm&logoColor=white" />
+  <img alt="PM2" src="https://img.shields.io/badge/PM2-2b037a?style=for-the-badge&logo=PM2&logoColor=white" />
+  <img alt="dart" src="https://img.shields.io/badge/dart-0175c2?style=for-the-badge&logo=Dart&logoColor=white" />
+  <img alt="flutter" src="https://img.shields.io/badge/flutter-02569b?style=for-the-badge&logo=Flutter&logoColor=white" />
+  <img alt="phthon" src="https://img.shields.io/badge/phthon-3776ab?style=for-the-badge&logo=Python&logoColor=white" />
+  <img alt="android" src="https://img.shields.io/badge/android-3ddc84?style=for-the-badge&logo=Android&logoColor=white" />
+  <img alt="Chrome" src="https://img.shields.io/badge/Chrome%20Extensions-4285f4?style=for-the-badge&logo=Google%20Chrome&logoColor=white" />
+  <img alt="firefox" src="https://img.shields.io/badge/firefox%20addon-ff7139?style=for-the-badge&logo=Firefox&logoColor=white" />
+  <img alt="iOS" src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=Apple&logoColor=white" />
+  <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-4169e1?style=for-the-badge&logo=PostgreSQL&logoColor=white" />
+  <img alt="Adobe" src="https://img.shields.io/badge/Adobe%20Illustrator-ff9a00?style=for-the-badge&logo=Adobe%20Illustrator&logoColor=white" />
+  <img alt="Adobe" src="https://img.shields.io/badge/Adobe%20Photoshop-31a8ff?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=white" />
+  <img alt="web3" src="https://img.shields.io/badge/web3.js-f16822?style=for-the-badge&logo=Web3.js&logoColor=white" />
+  <img alt="AutoCad" src="https://img.shields.io/badge/AutoCad-0696d7?style=for-the-badge&logo=Autodesk&logoColor=white" />
+  <img alt="prettier" src="https://img.shields.io/badge/prettier-f7b93e?style=for-the-badge&logo=Prettier&logoColor=black" />
+  <img alt="Visual" src="https://img.shields.io/badge/Visual%20Studio%20Code-007acc?style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white" />
+  <img alt="GitLab" src="https://img.shields.io/badge/GitLab-fc6d26?style=for-the-badge&logo=GitLab" />
+  <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub" />
 </p>
 
-
-
-<!--
-**soogo/soogo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 2022년 현재는 **위고컴퍼니** 블록체인회사에서 근무중입니다.
+R&D팀에서 풀스택 개발자로 근무하고 있습니다.  
+주 업무는 웹서비스개발로
+현재는 블록체인지갑 개발(Android, iOS, Chrome Extensions, Firefox Addon)과
+NFT관련 웹서비스를 개발하고 있습니다.
