@@ -50,7 +50,7 @@ I am Soogo, Fullstack Developer from South Korea.
   <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub" />
 </p>
 
-### 2022년 현재는 **위고컴퍼니** 블록체인회사에서 근무중입니다.
+### 2022년 현재는 블록체인기업 위고컴퍼니에서 근무중입니다.
 R&D팀에서 풀스택 개발자로 근무하고 있습니다.  
 주 업무는 웹서비스개발로
 현재는 블록체인지갑 개발(Android, iOS, Chrome Extensions, Firefox Addon)과
