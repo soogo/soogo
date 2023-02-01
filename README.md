@@ -56,6 +56,8 @@ I am Soogo, Fullstack Developer from South Korea.
 ### 2023년 현재는 블록체인기업 위고컴퍼니에서 근무중입니다.
 주 업무는 웹서비스개발로 블록체인 및 NFT 관련 웹서비스, 모바일(Android, iOS) 등을 개발 하고 있습니다.
 
+https://qr.wegochain.io/
+
 [https://rbd.testneta.com/](https://rbd.testneta.com/)
 
 [https://wih.testneta.com/](https://wih.testneta.com/)
