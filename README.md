@@ -36,7 +36,7 @@ I am Soogo, Fullstack Developer from South Korea.
   <img alt="PM2" src="https://img.shields.io/badge/PM2-2b037a?style=for-the-badge&logo=PM2&logoColor=white" />
   <img alt="dart" src="https://img.shields.io/badge/dart-0175c2?style=for-the-badge&logo=Dart&logoColor=white" />
   <img alt="flutter" src="https://img.shields.io/badge/flutter-02569b?style=for-the-badge&logo=Flutter&logoColor=white" />
-  <img alt="phthon" src="https://img.shields.io/badge/phthon-3776ab?style=for-the-badge&logo=Python&logoColor=white" />
+<!--   <img alt="phthon" src="https://img.shields.io/badge/phthon-3776ab?style=for-the-badge&logo=Python&logoColor=white" /> -->
   <img alt="android" src="https://img.shields.io/badge/android-3ddc84?style=for-the-badge&logo=Android&logoColor=white" />
   <img alt="Chrome" src="https://img.shields.io/badge/Chrome%20Extensions-4285f4?style=for-the-badge&logo=Google%20Chrome&logoColor=white" />
   <img alt="firefox" src="https://img.shields.io/badge/firefox%20addon-ff7139?style=for-the-badge&logo=Firefox&logoColor=white" />
