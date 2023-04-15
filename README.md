@@ -14,7 +14,7 @@ I am Soogo, Fullstack Developer from South Korea.
 
 ### Languages & Tools :
 <p>
-  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-f7df1e?style=for-the-badge&logo=JavaScript&logoColor=black" />
+  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-f7df1e?style=for-the-badge&logo=JavaScript&logoColor=black" style="pointer-events: none" />
   <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178c6?style=for-the-badge&logo=TypeScript&logoColor=white" />
   <img alt="Node" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white" />
   <img alt="NestJs" src="https://img.shields.io/badge/NestJs-e0234e?style=for-the-badge&logo=NestJs&logoColor=white" />
