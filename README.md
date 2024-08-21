@@ -4,13 +4,7 @@
 
 ### 안녕하세요! 👋
 
-풀스택 개발자입니다.
-
-Welcome to my page!
-
-I am Soogo, Fullstack Developer from South Korea.
-
-제 이메일 주소는? : soolpam@gmail.com
+soolpam@gmail.com
 
 ### Languages & Tools :
 <p>
@@ -52,36 +46,3 @@ I am Soogo, Fullstack Developer from South Korea.
   <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub" />
 </p>
 
-
-### 2023년 현재는 블록체인기업 위고컴퍼니에서 근무중입니다.
-주 업무는 웹서비스개발로 블록체인 및 NFT 관련 웹서비스, 모바일(Android, iOS) 등을 개발 하고 있습니다.
-
-https://qr.wegochain.io/
-
-[https://rbd.testneta.com/](https://rbd.testneta.com/)
-
-[https://wih.testneta.com/](https://wih.testneta.com/)
-
-[http://yubank.testneta.com](http://yubank.testneta.com/)
-
-[http://happymade.testneta.com](http://happymade.testneta.com/)
-
-[http://mso.testnetb.com/](http://mso.testnetb.com/)
-
-[http://sunblockterminal.testneta.com](http://sunblockterminal.testneta.com/)
-
-[http://www.vanasu.co.kr](http://www.vanasu.co.kr/)
-
-[http://tgs.testneta.com](http://tgs.testneta.com/)
-
-[https://spmainnet.com/](https://spmainnet.com/)
-
-[https://portal.sbtgallery.com/](https://portal.sbtgallery.com/)
-
-[https://swap.sbtgallery.com/](https://swap.sbtgallery.com/)
-
-[https://portal.skygallery.net/](https://portal.skygallery.net/)
-
-[https://sswap.skygallery.net/](https://sswap.skygallery.net/sky/login-proto.php)
-
-[https://saintlignenft.com/](https://saintlignenft.com/)
