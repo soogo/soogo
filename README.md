@@ -42,7 +42,7 @@ soolpam@gmail.com
   <img alt="AutoCad" src="https://img.shields.io/badge/AutoCad-0696d7?style=for-the-badge&logo=Autodesk&logoColor=white" />
   <img alt="prettier" src="https://img.shields.io/badge/prettier-f7b93e?style=for-the-badge&logo=Prettier&logoColor=black" />
   <img alt="Visual" src="https://img.shields.io/badge/Visual%20Studio%20Code-007acc?style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white" />
-  <img alt="GitLab" src="https://img.shields.io/badge/GitLab-fc6d26?style=for-the-badge&logo=GitLab" />
+  <img alt="GitLab" src="https://img.shields.io/badge/GitLab-fc6d26?style=for-the-badge&logo=Gitlab" />
   <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub" />
 </p>
 
