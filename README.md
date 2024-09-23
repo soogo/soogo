@@ -2,9 +2,19 @@
 
 ---
 
-### 안녕하세요! 👋
+# soolpam@gmail.com
 
-soolpam@gmail.com
+
+### 👋 Welcome to My Creative Hub!
+
+"안녕하세요! 도전과 혁신을 추구하는 개발자입니다. 문제 해결과 기술 발전에 열정을 가지고 있으며, 매 프로젝트에서 사용자 경험을 최우선으로 생각합니다. 저의 아이디어와 기술력은 언제나 발전 중입니다. 함께 더 나은 세상을 만들어갈 준비가 되어 있습니다. Let's build something amazing together!"
+
+
+### 🚀 Fueled by Curiosity, Evolving with Every Challenge
+
+"저는 끊임없는 호기심과 열정으로 새로운 기술과 문제에 도전합니다. 작은 디테일에서부터 큰 그림까지 놓치지 않으며, 배우고 성장하는 과정에서 얻는 인사이트는 저의 가장 큰 동력입니다. 변화하는 환경에 빠르게 적응하고, 새로운 기술을 적극적으로 탐구하여 성과를 극대화하는 것이 저의 목표입니다. 함께 성장하고, 더 나은 미래를 만들어갈 준비가 되어 있습니다."
+
+
 
 ### Languages & Tools :
 <p>
@@ -44,13 +54,22 @@ soolpam@gmail.com
   <img alt="Visual" src="https://img.shields.io/badge/Visual%20Studio%20Code-007acc?style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white" />
   <img alt="GitLab" src="https://img.shields.io/badge/GitLab-fc6d26?style=for-the-badge&logo=Gitlab&logoColor=white" />
   <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub" />
+  <img alt="GitHub" src="https://img.shields.io/badge/Rust-f74c00?style=for-the-badge&logo=Rust" />
 </p>
 
 
 
+### 🌟 현재 저는 Wigo Company에서 혁신을 이끌고 있습니다! 🌟
+2024년 현재, 블록체인 및 NFT의 미래를 함께 만들어가는 Wego Company에서 웹 서비스 개발자로 활약 중입니다. 저의 주요 업무는 흥미진진한 블록체인 기반 웹서비스와 모바일 애플리케이션(Flutter)을 개발하는 것입니다.
 
-2023년 현재는 블록체인기업 위고컴퍼니에서 근무중입니다.
-주 업무는 웹서비스개발로 블록체인 및 NFT 관련 웹서비스, 모바일(Android, iOS) 등을 개발 하고 있습니다.
+### 🔧 5년의 개발 여정
+유지보수를 제외하면, 제 개발 경력은 약 5년입니다. 이 기간 동안 다양한 프로젝트에 참여하며 쌓은 경험은 문제 해결 능력과 기술적 안목을 키우는 데 큰 도움이 되었습니다.
+
+### ✨ 프로젝트는 제 열정입니다!
+지금까지의 경력을 통해 쌓은 기술과 지식을 바탕으로, 앞으로도 계속해서 새로운 도전과 혁신을 추구할 것입니다. 저와 함께 블록체인의 미래를 만들어갈 기회를 기대해 주세요!
+
+
+
 
 ~~https://qr.wegochain.io/~~
 
@@ -81,3 +100,9 @@ soolpam@gmail.com
 ~~https://sswap.skygallery.net/~~
 
 ~~https://saintlignenft.com/~~
+
+
+### 🚧 Under (Re)Construction! 🚧
+
+
+현재 위의 모든 사이트들이 현재 휴식을 취하고 있습니다.
